@@ -442,6 +442,4 @@ public class CountryPopulator {
     }
 
 
-    public static void main(String[] args) {
-    }
 }

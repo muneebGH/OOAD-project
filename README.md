@@ -16,6 +16,13 @@
 4. goto File -> Project Structure -> Libraries -> click (+) to add dependency
 5. Apply and run Application.main()
 
+### Possible Issue
+##### No Run Icon on Application.main() 
+   - Right-click a folder in the Project tool window.
+   - Select Mark Directory as from the context menu.
+   - Select the Sources root
+   - File -> Project Structure -> project & **Make sure that _Compiler output path_ is set**
+
 ## DEMO
 
 - #### loading

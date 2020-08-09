@@ -16,7 +16,9 @@
 4. goto File -> Project Structure -> Libraries -> click (+) to add dependency
 5. Apply and run Application.main()
 
-### Possible Issue (Windows)
+**Recommended IDE - _Intelli j Idea_**
+
+### Possible Issues (Windows)
 ##### No Run Icon on Application.main() 
    - Right-click a folder in the Project tool window.
    - Select Mark Directory as from the context menu.

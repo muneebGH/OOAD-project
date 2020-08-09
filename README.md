@@ -16,12 +16,15 @@
 4. goto File -> Project Structure -> Libraries -> click (+) to add dependency
 5. Apply and run Application.main()
 
-### Possible Issue
+### Possible Issue (Windows)
 ##### No Run Icon on Application.main() 
    - Right-click a folder in the Project tool window.
    - Select Mark Directory as from the context menu.
    - Select the Sources root
    - File -> Project Structure -> project & **Make sure that _Compiler output path_ is set**
+#### java release version 13 not supported
+   - goto File -> Project Structure -> Modules -> language level 
+   - change language level from 13 to 12
 
 ## DEMO
 

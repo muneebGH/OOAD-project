@@ -6,7 +6,8 @@
 
 ## Runtime dependencies
 
-- good internet connection (for the crawler)
+- good internet connection ( _for the crawler_ ). Crawling and scraping will consume time because there are 267 links as there are 267 countries on cia website and it gets URL of each of 267 then makes connection, loads HTML of that link then starts parsing and populating. **Have Patience**
+
 
 ### Steps to run project :
 
